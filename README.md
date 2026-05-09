@@ -1,2 +1,2 @@
-# restauranLandingPage
-An exercise part of The Odin Project
+# Restaurant-Landing-Page
+An exercise which is a part of The Odin Project.
